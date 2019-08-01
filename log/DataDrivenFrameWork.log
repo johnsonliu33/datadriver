@@ -1,0 +1,11 @@
+2019-08-01 23:10:30 TestMail126AddContacts.py[line:26] INFO 126邮箱添加联系人数据驱动测试开始。。。。。
+2019-08-01 23:10:30 TestMail126AddContacts.py[line:42] INFO 启动浏览器，访问126邮箱首页
+2019-08-01 23:10:42 TestMail126AddContacts.py[line:50] INFO 用户[%s]登录成功！
+2019-08-01 23:10:55 TestMail126AddContacts.py[line:97] INFO 添加联系人【lily】成功
+2019-08-01 23:10:55 TestMail126AddContacts.py[line:107] INFO 为用户【15001241323】添加1个联系人，测试通过
+2019-08-01 23:11:01 TestMail126AddContacts.py[line:97] INFO 添加联系人【张三】成功
+2019-08-01 23:11:01 TestMail126AddContacts.py[line:107] INFO 为用户【15001241323】添加2个联系人，测试通过
+2019-08-01 23:11:01 TestMail126AddContacts.py[line:114] INFO [15001241323]用户的[张三]联系人被忽略添加
+2019-08-01 23:11:07 TestMail126AddContacts.py[line:97] INFO 添加联系人【李四】成功
+2019-08-01 23:11:07 TestMail126AddContacts.py[line:107] INFO 为用户【15001241323】添加3个联系人，测试通过
+2019-08-01 23:11:07 TestMail126AddContacts.py[line:117] INFO [15001241323]账号添加联系人被设置忽略执行
